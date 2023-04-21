@@ -1,0 +1,1 @@
+print("singh is king");
